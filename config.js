@@ -50,5 +50,7 @@
     global.GOOGLE_APPS_SCRIPT_URL = GOOGLE_APPS_SCRIPT_URL;
     global.ADMIN_PASSWORD = ADMIN_PASSWORD;
     global.DEFAULT_GPS_RADIUS = DEFAULT_GPS_RADIUS;
+   // Trống đồng: https://greohu.github.io/Diemdanh/assets/anh-trong-dong.png
+   // Nền đỏ: https://greohu.github.io/Diemdanh/assets/nen-do.png
 
 })(typeof window !== 'undefined' ? window : this);
