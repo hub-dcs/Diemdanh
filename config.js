@@ -31,17 +31,17 @@
 
     // ★★★ GIÁ TRỊ DUY NHẤT CẦN SỬA KHI ĐỔI TÀI KHOẢN GOOGLE ★★★
     // URL deploy Google Apps Script Web App (kết thúc bằng /exec).
-    const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzoJirrnHSazvKRTeiUTdVD12bAgk7Q-2-m15-fj3y06Mal6MugM_LkAc4P81A3pvk3/exec';
+    const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyNanvzeokJKa_8eDAW8HuytvfHQJ6SmNnLkwmogjoh_cC5LFqkDzqVYtDyDIosA1wYcQ/exec';
 
     // Mật khẩu admin — dùng để đăng nhập trang Admin (index.html?mode=admin)
     // và mở "Điểm danh thay". Vốn trước đây chỉ nằm trong index.html; đưa
     // vào đây cùng chỗ vì cũng là cấu hình triển khai, không phải mã nguồn.
-    const ADMIN_PASSWORD = 'admin123';
+    const ADMIN_PASSWORD = 'ad123';
 
     // Bán kính GPS dự phòng (mét) — dùng khi 1 cuộc họp chưa lưu bán kính
     // riêng qua trang Admin (mỗi cuộc họp có thể tự đặt bán kính riêng,
     // giá trị này chỉ là mặc định cho cuộc họp cũ/chưa cấu hình).
-    const DEFAULT_GPS_RADIUS = 30;
+    const DEFAULT_GPS_RADIUS = 50;
 
     // Gắn vào window để index.html, display.html, checkin-rollcall.html
     // đọc được như biến toàn cục — giữ đúng tên biến các file đó đã dùng
