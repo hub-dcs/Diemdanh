@@ -31,7 +31,7 @@
 
     // ★★★ GIÁ TRỊ DUY NHẤT CẦN SỬA KHI ĐỔI TÀI KHOẢN GOOGLE ★★★
     // URL deploy Google Apps Script Web App (kết thúc bằng /exec).
-    const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzoJirrnHSazvKRTeiUTdVD12bAgk7Q-2-m15-fj3y06Mal6MugM_LkAc4P81A3pvk3/exec';
+    const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyNanvzeokJKa_8eDAW8HuytvfHQJ6SmNnLkwmogjoh_cC5LFqkDzqVYtDyDIosA1wYcQ/exec';
 
     // Mật khẩu admin — dùng để đăng nhập trang Admin (index.html?mode=admin)
     // và mở "Điểm danh thay". Vốn trước đây chỉ nằm trong index.html; đưa
